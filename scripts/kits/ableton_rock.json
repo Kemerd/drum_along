@@ -1,0 +1,163 @@
+{
+  "name": "Ableton Live 12 Core Library - acoustic rock kit",
+  "root": "C:/ProgramData/Ableton/Live 12 Suite/Resources/Core Library/Samples/One Shots/Drums",
+  "notes": {
+    "36": {
+      "label": "kick",
+      "gain": 1.0,
+      "layers": [
+        [
+          127,
+          [
+            "Kick/Kick Plastic 90s Heavy Rock.wav"
+          ]
+        ]
+      ]
+    },
+    "38": {
+      "label": "snare",
+      "gain": 0.85,
+      "layers": [
+        [
+          55,
+          [
+            "Snare/Snare Stick Hit Soft Dry Session.aif",
+            "Snare/Snare Stick Hit Soft 2 Dry Session.aif"
+          ]
+        ],
+        [
+          95,
+          [
+            "Snare/Snare Stick Hit Medium Dry Session.aif",
+            "Snare/Snare Stick Hit Medium 2 Dry Session.aif"
+          ]
+        ],
+        [
+          127,
+          [
+            "Snare/Snare Stick Hit Hard Dry Session.aif",
+            "Snare/Snare Stick Hit Hard 2 Dry Session.aif"
+          ]
+        ]
+      ]
+    },
+    "42": {
+      "label": "closed hat",
+      "gain": 0.55,
+      "layers": [
+        [
+          55,
+          [
+            "Hihat/Hihat Closed Stick Tip Soft 1.aif",
+            "Hihat/Hihat Closed Stick Tip Soft 2.aif"
+          ]
+        ],
+        [
+          85,
+          [
+            "Hihat/Hihat Closed Stick Tip Medium.aif"
+          ]
+        ],
+        [
+          127,
+          [
+            "Hihat/Hihat Closed Stick Tip Hard 1.aif",
+            "Hihat/Hihat Closed Stick Tip Hard 2.aif"
+          ]
+        ]
+      ]
+    },
+    "46": {
+      "label": "open hat",
+      "gain": 0.55,
+      "layers": [
+        [
+          70,
+          [
+            "Hihat/Hihat Half-Open Stick Tip Soft 1.aif",
+            "Hihat/Hihat Half-Open Stick Tip Soft 2.aif"
+          ]
+        ],
+        [
+          127,
+          [
+            "Hihat/Hihat Half-Open Stick Tip Hard 1.aif",
+            "Hihat/Hihat Half-Open Stick Tip Hard 2.aif"
+          ]
+        ]
+      ]
+    },
+    "49": {
+      "label": "crash",
+      "gain": 0.6,
+      "layers": [
+        [
+          127,
+          [
+            "Cymbal/Crash Heavy Rock.wav"
+          ]
+        ]
+      ]
+    },
+    "51": {
+      "label": "ride",
+      "gain": 0.5,
+      "layers": [
+        [
+          127,
+          [
+            "Ride/Ride Stick Edge 90s Heavy Rock.wav"
+          ]
+        ]
+      ]
+    },
+    "50": {
+      "label": "tom hi",
+      "gain": 0.8,
+      "layers": [
+        [
+          127,
+          [
+            "Tom/Tom 90s Heavy Rock 1.wav"
+          ]
+        ]
+      ]
+    },
+    "47": {
+      "label": "tom mid",
+      "gain": 0.8,
+      "layers": [
+        [
+          127,
+          [
+            "Tom/Tom 90s Heavy Rock 2.wav"
+          ]
+        ]
+      ]
+    },
+    "45": {
+      "label": "tom lo",
+      "gain": 0.85,
+      "layers": [
+        [
+          127,
+          [
+            "Tom/Tom 90s Heavy Rock 3.wav"
+          ]
+        ]
+      ]
+    },
+    "44": {
+      "label": "hat foot",
+      "gain": 0.5,
+      "layers": [
+        [
+          127,
+          [
+            "Hihat/Hihat Foot Acoustic.aif"
+          ]
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 372" width="1280" height="372" role="img">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; }
+  
+  @keyframes flow { from { offset-distance: 0%; opacity: 0; } 15% { opacity: 1; } 85% { opacity: 1; } to { offset-distance: 100%; opacity: 0; } }
+
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="1280" height="372" rx="24" fill="#1a1a19"/>
+<rect x="58.0" y="68" width="212" height="236" rx="16" fill="#262624"/>
+<rect x="80.0" y="92" width="30" height="4" rx="2" fill="#8f8e86"/>
+<text x="80.0" y="130" font-size="27" font-weight="700" letter-spacing="-.4" fill="#f0efec">You</text>
+<text x="80.0" y="154" font-size="11.5" font-weight="600" letter-spacing="1.3" fill="#8f8e86">AUDIO IN</text>
+<text x="80.0" y="190" font-size="15.5" fill="#c3c2b7">Guitar, piano or a</text>
+<text x="80.0" y="213" font-size="15.5" fill="#c3c2b7">whole band. Plain</text>
+<text x="80.0" y="236" font-size="15.5" fill="#c3c2b7">sound, no BPM</text>
+<text x="80.0" y="259" font-size="15.5" fill="#c3c2b7">and no click.</text>
+<line x1="273.0" y1="186.0" x2="293.0" y2="186.0" stroke="#3a3a37" stroke-width="2" stroke-linecap="round"/>
+<circle r="4" fill="#f0efec" style="offset-path: path('M 273.0 186.0 L 293.0 186.0'); animation: flow 1s linear infinite; animation-delay: 0.0s"/>
+<rect x="296.0" y="68" width="212" height="236" rx="16" fill="#262624"/>
+<rect x="318.0" y="92" width="30" height="4" rx="2" fill="#3987e5"/>
+<text x="318.0" y="130" font-size="27" font-weight="700" letter-spacing="-.4" fill="#f0efec">Ears</text>
+<text x="318.0" y="154" font-size="11.5" font-weight="600" letter-spacing="1.3" fill="#8f8e86">TRAINED</text>
+<text x="318.0" y="190" font-size="15.5" fill="#c3c2b7">A neural net hears</text>
+<text x="318.0" y="213" font-size="15.5" fill="#c3c2b7">the beat, the 1, and</text>
+<text x="318.0" y="236" font-size="15.5" fill="#c3c2b7">if a drummer belongs.</text>
+<text x="318.0" y="259" font-size="15.5" fill="#c3c2b7">510k weights.</text>
+<line x1="511.0" y1="186.0" x2="531.0" y2="186.0" stroke="#3a3a37" stroke-width="2" stroke-linecap="round"/>
+<circle r="4" fill="#f0efec" style="offset-path: path('M 511.0 186.0 L 531.0 186.0'); animation: flow 1s linear infinite; animation-delay: 0.2s"/>
+<rect x="534.0" y="68" width="212" height="236" rx="16" fill="#262624"/>
+<rect x="556.0" y="92" width="30" height="4" rx="2" fill="#199e70"/>
+<text x="556.0" y="130" font-size="27" font-weight="700" letter-spacing="-.4" fill="#f0efec">Clock</text>
+<text x="556.0" y="154" font-size="11.5" font-weight="600" letter-spacing="1.3" fill="#8f8e86">HAND-WRITTEN</text>
+<text x="556.0" y="190" font-size="15.5" fill="#c3c2b7">Tempo and phase.</text>
+<text x="556.0" y="213" font-size="15.5" fill="#c3c2b7">Bends with you, holds</text>
+<text x="556.0" y="236" font-size="15.5" fill="#c3c2b7">through a riff, waits</text>
+<text x="556.0" y="259" font-size="15.5" fill="#c3c2b7">out a stop.</text>
+<line x1="749.0" y1="186.0" x2="769.0" y2="186.0" stroke="#3a3a37" stroke-width="2" stroke-linecap="round"/>
+<circle r="4" fill="#f0efec" style="offset-path: path('M 749.0 186.0 L 769.0 186.0'); animation: flow 1s linear infinite; animation-delay: 0.4s"/>
+<rect x="772.0" y="68" width="212" height="236" rx="16" fill="#262624"/>
+<rect x="794.0" y="92" width="30" height="4" rx="2" fill="#d95926"/>
+<text x="794.0" y="130" font-size="27" font-weight="700" letter-spacing="-.4" fill="#f0efec">Drummer</text>
+<text x="794.0" y="154" font-size="11.5" font-weight="600" letter-spacing="1.3" fill="#8f8e86">HAND-TUNED</text>
+<text x="794.0" y="190" font-size="15.5" fill="#c3c2b7">Grooves, fills and</text>
+<text x="794.0" y="213" font-size="15.5" fill="#c3c2b7">dynamics. All of it</text>
+<text x="794.0" y="236" font-size="15.5" fill="#c3c2b7">in a JSON file you</text>
+<text x="794.0" y="259" font-size="15.5" fill="#c3c2b7">can edit.</text>
+<line x1="987.0" y1="186.0" x2="1007.0" y2="186.0" stroke="#3a3a37" stroke-width="2" stroke-linecap="round"/>
+<circle r="4" fill="#f0efec" style="offset-path: path('M 987.0 186.0 L 1007.0 186.0'); animation: flow 1s linear infinite; animation-delay: 0.6s"/>
+<rect x="1010.0" y="68" width="212" height="236" rx="16" fill="#262624"/>
+<rect x="1032.0" y="92" width="30" height="4" rx="2" fill="#8f8e86"/>
+<text x="1032.0" y="130" font-size="27" font-weight="700" letter-spacing="-.4" fill="#f0efec">Your drums</text>
+<text x="1032.0" y="154" font-size="11.5" font-weight="600" letter-spacing="1.3" fill="#8f8e86">MIDI OUT</text>
+<text x="1032.0" y="190" font-size="15.5" fill="#c3c2b7">General MIDI into</text>
+<text x="1032.0" y="213" font-size="15.5" fill="#c3c2b7">Kontakt, Drum Rack</text>
+<text x="1032.0" y="236" font-size="15.5" fill="#c3c2b7">or any drum plugin</text>
+<text x="1032.0" y="259" font-size="15.5" fill="#c3c2b7">you like.</text>
+<text x="640.0" y="344" text-anchor="middle" font-size="16" fill="#8f8e86">Notes are scheduled ahead of the beat, so the drums land on time instead of reacting late.</text>
+</svg>

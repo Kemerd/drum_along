@@ -1,0 +1,19 @@
+# Build output and local Python environments
+/build/
+/.venv/
+/.venv-sep/
+
+# Audio: songs you own and everything rendered from them stay local
+/input/
+/output/
+
+# Datasets (downloaded audio, never committed)
+/data/
+
+# Python caches and backup weights
+__pycache__/
+*.bak
+
+# Local test tools tied to personal songs
+scripts/run_suite.py
+scripts/fetch_example.py
